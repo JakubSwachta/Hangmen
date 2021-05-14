@@ -455,7 +455,7 @@ var Game = /*#__PURE__*/(function () {
     (0, _defineProperty2["default"])(this, "currentStep", 0);
     (0, _defineProperty2["default"])(this, "lastStep", 7);
     (0, _defineProperty2["default"])(this, "quotes", [{
-      text: 'parówa',
+      text: 'parowa',
       category: 'Przezwisko Ewelci'
     }, {
       text: 'kolczatka',

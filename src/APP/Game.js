@@ -7,7 +7,7 @@ class Game {
 	/* tablica składająca się z obiektów które badziemy losować */
 	quotes = [
 		{
-			text: 'parówa',
+			text: 'parowa',
 			category: 'Przezwisko Ewelci',
 		},
 		{
