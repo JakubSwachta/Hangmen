@@ -461,7 +461,7 @@ var Game = /*#__PURE__*/(function () {
       text: 'kolczatka',
       category: 'Element garderoby Ewelci'
     }, {
-      text: 'kiełbaska i kabanos',
+      text: 'kielbaska i kabanos',
       category: 'Ulubione jedzenie Ewelci'
     }, {
       text: 'ewelciuje',
@@ -476,14 +476,14 @@ var Game = /*#__PURE__*/(function () {
       text: 'o fuck',
       category: 'zdziwiona Ewelcia mówi'
     }, {
-      text: 'łapa dinozaura',
+      text: 'lapa dinozaura',
       category: 'Ewelci Broń'
     }, {
       text: 'kikuta',
       category: 'Jak się ewelcia zdenerwuje to dostaniesz z....'
     }, {
-      text: 'bedzie lało',
-      category: 'kikut swędzi'
+      text: 'bedzie lalo',
+      category: 'kikut swedzi'
     }, {
       text: 'panie przebacz',
       category: 'jak trzeba się zwracać do Ewelci'

@@ -15,7 +15,7 @@ class Game {
 			category: 'Element garderoby Ewelci',
 		},
 		{
-			text: 'kiełbaska i kabanos',
+			text: 'kielbaska i kabanos',
 			category: 'Ulubione jedzenie Ewelci',
 		},
 		{
@@ -35,7 +35,7 @@ class Game {
 			category: 'zdziwiona Ewelcia mówi',
 		},
 		{
-			text: 'łapa dinozaura',
+			text: 'lapa dinozaura',
 			category: 'Ewelci Broń',
 		},
 		{
@@ -43,8 +43,8 @@ class Game {
 			category: 'Jak się ewelcia zdenerwuje to dostaniesz z....',
 		},
 		{
-			text: 'bedzie lało',
-			category: 'kikut swędzi',
+			text: 'bedzie lalo',
+			category: 'kikut swedzi',
 		},
 		{
 			text: 'panie przebacz',
