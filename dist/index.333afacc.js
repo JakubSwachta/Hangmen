@@ -464,13 +464,13 @@ var Game = /*#__PURE__*/(function () {
       text: 'kiełbaska i kabanos',
       category: 'Ulubione jedzenie Ewelci'
     }, {
-      text: 'Ewelciuje',
+      text: 'ewelciuje',
       category: 'Ewelcia robi to czesto'
     }, {
       text: 'kaktus',
       category: 'Przezwisko Ewelci'
     }, {
-      text: 'YuuHuu',
+      text: 'yuuhuu',
       category: 'Radosna Ewelcia mówi'
     }, {
       text: 'o fuck',
@@ -484,6 +484,9 @@ var Game = /*#__PURE__*/(function () {
     }, {
       text: 'bedzie lało',
       category: 'kikut swędzi'
+    }, {
+      text: 'panie przebacz',
+      category: 'jak trzeba się zwracać do Ewelci'
     }]);
     this.lettersWrapper = lettersWrapper;
     this.categoryWrapper = categoryWrapper;

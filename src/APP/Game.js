@@ -19,7 +19,7 @@ class Game {
 			category: 'Ulubione jedzenie Ewelci',
 		},
 		{
-			text: 'Ewelciuje',
+			text: 'ewelciuje',
 			category: 'Ewelcia robi to czesto',
 		},
 		{
@@ -27,7 +27,7 @@ class Game {
 			category: 'Przezwisko Ewelci',
 		},
 		{
-			text: 'YuuHuu',
+			text: 'yuuhuu',
 			category: 'Radosna Ewelcia mówi',
 		},
 		{
@@ -45,6 +45,10 @@ class Game {
 		{
 			text: 'bedzie lało',
 			category: 'kikut swędzi',
+		},
+		{
+			text: 'panie przebacz',
+			category: 'jak trzeba się zwracać do Ewelci',
 		},
 	];
 
